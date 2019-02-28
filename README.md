@@ -2,7 +2,7 @@
 
 ```
 @echo off
-set /P myname=請輸入你的名字:
+set /P myname=Please input your name:
 echo Hello %myname%
 echo.
 echo %date% 
